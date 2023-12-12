@@ -1,0 +1,1 @@
+# Python-code-from-scratch-of-PCA-on-MNIST-and-then-perform-GMM-clustering.
